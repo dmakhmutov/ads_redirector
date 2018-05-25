@@ -1,0 +1,3 @@
+TELEGRAM_KEY: telegram-bot-key
+TELEGRAM_DEBUG_MOD: false
+APP_PORT: ':4000'
